@@ -56,20 +56,20 @@
       },
       message: {
         type: String,
-        default: 'This website uses cookies to ensure you get the best experience on our website.'
+        default: 'Questo sito fa uso di cookie per migliorare la vostra esperienza di navigazione.'
       },
       // button
       linkLabel: {
         type: String,
-        default: 'Learn more'
+        default: 'Leggi di più'
       },
       buttonLabel: {
         type: String,
-        default: 'Got it!'
+        default: 'Accetto'
       },
       href: {
         type: String,
-        default: 'http://cookiesandyou.com'
+        default: '/privacy/'
       },
       target: {
         type: String,
